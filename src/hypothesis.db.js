@@ -7,7 +7,7 @@ export const  hypothesis	= [
         "questions": [
             {
                 "id": 1,
-                "question": "Quel parcours avez vous fait avant d’intégrer l'ensim",
+                "question": "Quel parcours avez vous fait avant d’intégrer l'ensim ?",
                 "responses": [
                     {
                         "response":"BL",
@@ -16,7 +16,7 @@ export const  hypothesis	= [
                 ]
             },{
                 "id": 2,
-                "question": "12-As-tu déjà réalisé ? [Un robot]",
+                "question": "As-tu déjà réalisé ? [Un robot]",
                 "responses": [
                     {
                         "response":"Jamais",
@@ -25,7 +25,7 @@ export const  hypothesis	= [
                 ]
             },{
                 "id":3,
-                "question": "12-As-tu déjà réalisé ? [Un système électronique (capteurs...)]",
+                "question": "As-tu déjà réalisé ? [Un système électronique (capteurs...)]",
                 "responses": [
                     {
                         "response":"Jamais",
@@ -42,7 +42,7 @@ export const  hypothesis	= [
         "questions": [
             {
                 "id": 1,
-                "question": "3-Quel parcours avez vous fait avant d’intégrer l'ensim",
+                "question": "Quel parcours avez vous fait avant d’intégrer l'ensim ?",
                 "responses": [
                     {
                         "response":"Prépa intégrée",
@@ -54,7 +54,7 @@ export const  hypothesis	= [
                 ]
             },{
                 "id":4,
-                "question": "5-Quelles sont les associations de l'ensim qui t’intéresse ?",
+                "question": "Quelles sont les associations de l'ensim qui t’intéresse ?",
                 "responses": [
                     {
                         "response":"ENSIM’elec",
@@ -71,7 +71,7 @@ export const  hypothesis	= [
         "questions": [
             {
                 "id": 1,
-                "question": "3-Quel parcours avez vous fait avant d’intégrer l'ensim",
+                "question": "Quel parcours avez vous fait avant d’intégrer l'ensim ?",
                 "responses": [
                     {
                         "response":"Prépa classique",
@@ -80,7 +80,7 @@ export const  hypothesis	= [
                 ]
             },{
                 "id":7,
-                "question": "10-Quel langage de programmation as-tu déjà utilisé ?",
+                "question": "Quel langage de programmation as-tu déjà utilisé ?",
                 "responses": [
                     {
                         "response":"Java",
@@ -100,7 +100,7 @@ export const  hypothesis	= [
         "questions": [
             {
                 "id":7,
-                "question": "10-Quel langage de programmation as-tu déjà utilisé ?",
+                "question": "Quel langage de programmation as-tu déjà utilisé ?",
                 "responses": [
                     {
                         "response":"Assembleur",
@@ -112,7 +112,7 @@ export const  hypothesis	= [
                 ]
             },{
                 "id":5,
-                "question": "11-As-tu déjà utilisé ? [Une carte Arduino/Raspberry]",
+                "question": "As-tu déjà utilisé ? [Une carte Arduino/Raspberry]",
                 "responses": [
                     {
                         "response":"Régulièrement",
@@ -129,7 +129,7 @@ export const  hypothesis	= [
                 ]
             },{
                 "id":6,
-                "question": "11-As-tu déjà utilisé ? [Linux]",
+                "question": "As-tu déjà utilisé ? [Linux]",
                 "responses": [
                     {
                         "response":"Régulièrement",
@@ -149,7 +149,7 @@ export const  hypothesis	= [
         "questions": [
             {
                 "id": 1,
-                "question": "3-Quel parcours avez vous fait avant d’intégrer l'ensim",
+                "question": "Quel parcours avez vous fait avant d’intégrer l'ensim ?",
                 "responses": [
                     {
                         "response":"Prépa intégrée",
@@ -158,7 +158,7 @@ export const  hypothesis	= [
                 ]
             },{
                 "id":4,
-                "question": "5-Quelles sont les associations de l'ensim qui t’intéresse ?",
+                "question": "Quelles sont les associations de l'ensim qui t’intéresse ?",
                 "responses": [
                     {
                         "response":"Jensim",
@@ -182,7 +182,7 @@ export const  hypothesis	= [
         "questions": [
             {
                 "id":7,
-                "question": "10-Quel langage de programmation as-tu déjà utilisé ?",
+                "question": "Quel langage de programmation as-tu déjà utilisé ?",
                 "responses": [
                     {
                         "response":"JavaScript",
@@ -198,7 +198,7 @@ export const  hypothesis	= [
             },
             {
                 "id":8,
-                "question": "11-As-tu déjà utilisé ? [Des logiciels de retouche (Paint, Photoshop)]",
+                "question": "As-tu déjà utilisé ? [Des logiciels de retouche (Paint, Photoshop)]",
                 "responses": [
                     {
                         "response":"Régulièrement",
@@ -222,7 +222,7 @@ export const  hypothesis	= [
         "questions": [
             {
                 "id":3,
-                "question": "12-As-tu déjà réalisé ? [Un système électronique (capteurs...)]",
+                "question": "As-tu déjà réalisé ? [Un système électronique (capteurs...)]",
                 "responses": [
                     {
                         "response":"Régulièrement",
@@ -239,7 +239,7 @@ export const  hypothesis	= [
                 ]
             },{
                 "id": 2,
-                "question": "12-As-tu déjà réalisé ? [Un robot]",
+                "question": "As-tu déjà réalisé ? [Un robot]",
                 "responses": [
                     {
                         "response":"Régulièrement",
