@@ -62,7 +62,7 @@ for (let i = 0; i <studentsMinim.length; i++) {
     predictions[i]["score_ips"] = score_ips;
     predictions[i]["score_astre"] = score_astre;
 
-    let prediction = "undefined";
+    let prediction = "Indecisive";
     if(predictions[i]["score_ips"]>predictions[i]["score_astre"])
         prediction = "IPS";
     else if(predictions[i]["score_ips"]<predictions[i]["score_astre"])
